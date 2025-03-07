@@ -1,4 +1,4 @@
-package io.reflectoring.addressBook;
+package com.example.addressBook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
